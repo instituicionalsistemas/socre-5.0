@@ -1,0 +1,8 @@
+{
+  "name": "Copy of teste aprovação dowload Delete + Botão de download - SCORE INTELIGENTE",
+  "description": "Execute um raio-x de áreas essenciais de sua empresa",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
